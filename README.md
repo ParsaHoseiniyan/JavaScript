@@ -1,3 +1,5 @@
+<img src="assets/giphy.gif" style="width: 120px; height: 120px;">
+
 # ***JavaScript-Learning***
 ## ✔️ Codes---Trainings---Introductions-for-JS
 
@@ -23,3 +25,7 @@
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<img src="assets/js.gif" style="width: 1600px; height: 370px;">
