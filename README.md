@@ -1,11 +1,15 @@
-<img src="assets/giphy.gif" style="width: 120px; height: 120px;">
+<img src="assets/giphy.gif" style="width: 150px; height: 150px;">
 
 # ***JavaScript-Learning***
+
+<img src="assets/js.gif" style="width: 1600px; height: 370px;">
+
 ## ✔️ Codes---Trainings---Introductions-for-JS
 
 -   In this repository I keep tracking my process of <mark>**learning JavaScript**</mark> by uploading what I've learned and some of my training codes.
 
 ## ✔️ Time Table
+<img src="assets/js-animation.gif" style="width: 150px; height: 150px;">
       ➕ There is a Scheduled table for my learning process:
 <table>
   <thead>
@@ -28,4 +32,4 @@
 
 <br>
 
-<img src="assets/js.gif" style="width: 1600px; height: 370px;">
+
