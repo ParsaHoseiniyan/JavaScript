@@ -9,8 +9,10 @@
 -   In this repository I keep tracking my process of <mark>**learning JavaScript**</mark> by uploading what I've learned and some of my training codes.
 
 ## ✔️ Time Table
-<img src="assets/js-animation.gif" style="width: 150px; height: 150px;">
-      ➕ There is a Scheduled table for my learning process:
+<img src="assets/js-animation.gif" style="width: 120px; height: 200px;">
+➕ There is a Scheduled table for my learning process:
+<br><br>
+
 <table>
   <thead>
     <tr>
@@ -29,7 +31,3 @@
     </tr>
   </tbody>
 </table>
-
-<br>
-
-
