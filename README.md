@@ -26,6 +26,6 @@
   </tbody>
 </table>
 
+<br>
 
-
-<img src="assets/js.gif" style="width: 1600px; height: 380px;">
+<img src="assets/js.gif" style="width: 1600px; height: 370px;">
