@@ -29,5 +29,9 @@
       <td>May 15</td>
       <td>36 to 40</td>
     </tr>
+    <tr>
+      <td>May 16</td>
+      <td>41 to 45</td>
+    </tr>
   </tbody>
 </table>
