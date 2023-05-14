@@ -31,11 +31,19 @@
     </tr>
     <tr>
       <td>May 16</td>
-      <td>41 to 45</td>
+      <td>41 to 55</td>
     </tr>
     <tr>
       <td>May 17</td>
-      <td>46 to 50</td>
+      <td>56 to 70</td>
+    </tr>
+    <tr>
+      <td>May 17</td>
+      <td>71 to 85</td>
+    </tr>
+    <tr>
+      <td>May 17</td>
+      <td>86 to 100</td>
     </tr>
   </tbody>
 </table>
