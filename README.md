@@ -23,11 +23,11 @@
   <tbody>
     <tr>
       <td>May 14</td>
-      <td>9 to 35</td>
+      <td>9 to 25</td>
     </tr>
     <tr>
       <td>May 15</td>
-      <td>36 to 40</td>
+      <td>26 to 40</td>
     </tr>
     <tr>
       <td>May 16</td>
