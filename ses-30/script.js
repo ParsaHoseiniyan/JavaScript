@@ -8,3 +8,5 @@ var showValue = function() {
     var result = num1 + num2
     alert('the result: ' + result)
 }
+
+showValue()
