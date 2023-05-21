@@ -22,20 +22,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>May 14</td>
-      <td>9 to 35</td>
+      <td>May 20</td>
+      <td>26 to 40</td>
     </tr>
     <tr>
-      <td>May 15</td>
-      <td>36 to 40</td>
+      <td>May 21</td>
+      <td>41 to 55</td>
     </tr>
     <tr>
-      <td>May 16</td>
-      <td>41 to 45</td>
+      <td>May 22</td>
+      <td>56 to 70</td>
     </tr>
     <tr>
-      <td>May 17</td>
-      <td>46 to 50</td>
+      <td>May 23</td>
+      <td>71 to 85</td>
+    </tr>
+    <tr>
+      <td>May 24</td>
+      <td>86 to 100</td>
     </tr>
   </tbody>
 </table>
