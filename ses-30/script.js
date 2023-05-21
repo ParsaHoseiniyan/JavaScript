@@ -1,7 +1,12 @@
 // Function expressions
 // https://javascript.info/function-basics
-// how to define a function as expressions syntax(just a little different from declarations)
 
+// https://javascript.info/function-expressions
+
+// https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052
+
+
+// how to define a function as expressions syntax(just a little different from declarations)
 var showValue = function() {
     var num1 = 2
     var num2 = 8
