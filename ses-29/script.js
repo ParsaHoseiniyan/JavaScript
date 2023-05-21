@@ -1,10 +1,10 @@
 // Function Declaration
-
+// https://javascript.info/function-basics
 // how to define a function as declaration sintax
 function showValue () {
-    num1 = 2
-    num2 = 8
-    resultNumber = num1 + num2
+    var num1 = 2
+    var num2 = 8
+    var resultNumber = num1 + num2
     alert('Result: ' + resultNumber)
 }
 
