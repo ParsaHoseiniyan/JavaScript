@@ -19,16 +19,19 @@
     <tr>
       <th>Date</th>
       <th>num of content(JavaScript)</th>
+      <th>Check</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>May 20</td>
       <td>26 to 30</td>
+      <td>yes</td>
     </tr>
     <tr>
       <td>May 21</td>
       <td>31 to 35</td>
+      <td>yes</td>
     </tr>
     <tr>
       <td>May 22</td>
