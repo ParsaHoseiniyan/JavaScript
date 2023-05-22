@@ -12,8 +12,6 @@
 <img src="assets/js-animation.gif" style="width: 120px; height: 200px;">
 
 #### ➕ There is a Scheduled table for my learning process:
-<br><br>
-
 
 <table>
   <thead>
@@ -139,7 +137,7 @@
   </tbody>
 </table>
 
-#### ✔️ This table helps to find out what each session is about?!
+#### ✔️ This table helps to find out what each session is about:
 <table>
   <thead>
     <tr>
