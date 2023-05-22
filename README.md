@@ -10,7 +10,7 @@
 
 ## ✔️ Time Table
 <img src="assets/js-animation.gif" style="width: 120px; height: 200px;">
-➕ There is a Scheduled table for my learning process:
+### ➕ There is a Scheduled table for my learning process:
 <br><br>
 
 
