@@ -236,19 +236,19 @@
     </tr>
     <tr>
       <td>33</td>
-      <td></td>
+      <td>exercise</td>
     </tr>
     <tr>
       <td>34</td>
-      <td></td>
+      <td>default values for input of functions</td>
     </tr>
     <tr>
       <td>35</td>
-      <td></td>
+      <td>return</td>
     </tr>
     <tr>
       <td>36</td>
-      <td></td>
+      <td>string structures and properties</td>
     </tr>
     <tr>
       <td>37</td>
