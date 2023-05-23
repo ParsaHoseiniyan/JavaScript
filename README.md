@@ -232,7 +232,7 @@
     </tr>
     <tr>
       <td>32</td>
-      <td></td>
+      <td>exercise</td>
     </tr>
     <tr>
       <td>33</td>
