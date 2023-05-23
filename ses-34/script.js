@@ -1,17 +1,16 @@
-// Function expressions
-// https://javascript.info/function-basics
+// Determine default values for the input of functions
 
-// https://javascript.info/function-expressions
+// you can just determine defoult values for the input of the functions like the syntax down below:
+function sumValue (num1 = 1, num2 = 2)  {
 
-// https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052
-
-
-// how to define a function as expressions syntax(just a little different from declarations)
-var showValue = function() {
-    var num1 = 2
-    var num2 = 8
-    var result = num1 + num2
-    alert('the result: ' + result)
+	// if (num1 == undefined) {
+	// 	num1 = 1
+	// }
+	// if (num2 == undefined) {
+	// 	num2 = 2
+	// }
+	var result = num1 + num2
+	alert("Result= " + result)
 }
 
-showValue()
+sumValue(10)
