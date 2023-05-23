@@ -1,4 +1,5 @@
 // Determine default values for the input of functions
+// resource: https://javascript.info/function-basics#default-values
 
 // you can just determine defoult values for the input of the functions like the syntax down below:
 function sumValue (num1 = 1, num2 = 2)  {
