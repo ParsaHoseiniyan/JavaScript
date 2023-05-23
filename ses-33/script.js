@@ -1,17 +1,8 @@
-// Function expressions
-// https://javascript.info/function-basics
+// exercise for session 32 and the solution for the exercise is in session 33
 
-// https://javascript.info/function-expressions
-
-// https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052
-
-
-// how to define a function as expressions syntax(just a little different from declarations)
-var showValue = function() {
-    var num1 = 2
-    var num2 = 8
-    var result = num1 + num2
-    alert('the result: ' + result)
+function avg (num1, num2, num3) {
+    var averageNumber = (num1 + num2 + num3) / 3
+    alert('your average is: ' + averageNumber)
 }
 
-showValue()
+avg(3, 5, 10)
