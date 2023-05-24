@@ -260,11 +260,11 @@
     </tr>
     <tr>
       <td>39</td>
-      <td></td>
+      <td>exercise</td>
     </tr>
     <tr>
       <td>40</td>
-      <td></td>
+      <td>string methods-2</td>
     </tr>
     <tr>
       <td>41</td>
