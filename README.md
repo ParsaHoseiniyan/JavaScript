@@ -252,11 +252,11 @@
     </tr>
     <tr>
       <td>37</td>
-      <td></td>
+      <td>exercise</td>
     </tr>
     <tr>
       <td>38</td>
-      <td></td>
+      <td>string methods-1</td>
     </tr>
     <tr>
       <td>39</td>
