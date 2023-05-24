@@ -1,17 +1,16 @@
-// Function Parameters
-// https://javascript.info/function-basics
+var text = "I Love JavaScript"
 
-// alert('من یه آلرت هستم')
+// console.log(text[0])
+// console.log(text.charAt(2)) // exactly like index
+// console.log(text.charCodeAt(0)) // Ascii | اسکی
+// console.log(text + " & React")
+// console.log(text.concat(" & React"))
+var finalText = text.concat(" & React")
+// console.log(finalText)
+// console.log(text.trim()) // ommiting the spaces before and after a text
+// console.log(text.toUpperCase())
+// console.log(text.search("react"))
+// console.log(text.indexOf("Love"))
+// there is a difference between search and indexof => ???
 
-function showText (userText) {
-	alert("Your Parameter: " + userText)
-}
-
-// showText('SabzLearn :)')
-
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
-
-showTwoNumbers(34, 18)
+console.log(text.includes("react")) // bool => true | false
