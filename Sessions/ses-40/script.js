@@ -1,3 +1,4 @@
+// string methods 2
 var text = "I Love JavaScript & React"
 
 // slice
