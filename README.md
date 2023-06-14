@@ -25,12 +25,12 @@
     <tr>
       <td>June 14(3/24)</td>
       <td>41 to 60</td>
-      <td>yes</td>
+      <td></td>
     </tr>
     <tr>
       <td>June 15(3/25)</td>
       <td>61 to 80</td>
-      <td>yes</td>
+      <td></td>
     </tr>
     <tr>
       <td>June 16(3/26)</td>
@@ -112,7 +112,7 @@
     <tr>
       <td>July 2(4/11)</td>
       <td>10 to 18</td>
-      <td>yes</td>
+      <td></td>
     </tr>
     <tr>
       <td>July 3(4/12)</td>
