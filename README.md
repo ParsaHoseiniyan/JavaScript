@@ -17,7 +17,7 @@
   <thead>
     <tr>
       <th>Date</th>
-      <th>num of content(JavaScript)</th>
+      <th>num of content(JavaScript)📘</th>
       <th>Check</th>
     </tr>
   </thead>
@@ -104,48 +104,29 @@
   <thead>
     <tr>
       <th>Date</th>
-      <th>num of content(Css)</th>
+      <th>num of content(Css)📘</th>
       <th>Check</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>May 21(2/31)</td>
-      <td>10 to 13</td>
+      <td>July 2(4/11)</td>
+      <td>10 to 18</td>
       <td>yes</td>
     </tr>
     <tr>
-      <td>May 22(3/1)</td>
-      <td>14 to 17</td>
+      <td>July 3(4/12)</td>
+      <td>19 to 27</td>
     </tr>
     <tr>
-      <td>May 23(3/2)</td>
-      <td>18 to 21</td>
+      <td>July 4(4/13)</td>
+      <td>28 to 36</td>
     </tr>
     <tr>
-      <td>May 24(3/3)</td>
-      <td>22 to 25</td>
+      <td>July 5(4/14)</td>
+      <td>37 to 46 ⭐⭐⭐⭐⭐</td>
     </tr>
     <tr>
-      <td>May 25(3/4)</td>
-      <td>26 to 29</td>
-    </tr>
-    <tr>
-      <td>May 26(3/5)</td>
-      <td>30 to 33</td>
-    </tr>
-    <tr>
-      <td>May 27(3/6)</td>
-      <td>34 to 37</td>
-    </tr>
-    <tr>
-      <td>May 28(3/7)</td>
-      <td>38 to 41</td>
-    </tr>
-    <tr>
-      <td>May 29(3/8)</td>
-      <td>42 to 46</td>
-    </tr>
   </tbody>
 </table>
 
