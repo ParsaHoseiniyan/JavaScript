@@ -1,17 +1,14 @@
-// Function Parameters
-// https://javascript.info/function-basics
+// String methods one exercise for last session done in this session//
 
-// alert('من یه آلرت هستم')
+var userName = prompt('enter your username please: ', " ")
 
-function showText (userText) {
-	alert("Your Parameter: " + userText)
+function checkUserName (username) {
+
+	if (username == "ali") {
+		alert('correct!')
+	} else {
+		alert('Not right!')
+	}
 }
 
-// showText('SabzLearn :)')
-
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
-
-showTwoNumbers(34, 18)
+checkUserName (userName.toLowerCase())
