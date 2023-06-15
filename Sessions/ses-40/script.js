@@ -9,4 +9,4 @@ var text = "I Love JavaScript & React"
 // console.log(text.substr(7, 10))
 // console.log(text.substring(7, 17))
 
-// what is the differince between slice & substr & substrings
+// what is the differince between slice & substr & substring
