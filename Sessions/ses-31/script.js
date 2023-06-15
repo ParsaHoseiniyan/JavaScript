@@ -7,7 +7,7 @@ function showText (userText) {
 	alert("Your Parameter: " + userText)
 }
 
-// showText('SabzLearn :)')
+showText('SabzLearn :)') // => the value in this paranthese will go in userText parameter whitch it is the input of the function
 
 function showTwoNumbers (firstNumber, secondNumber) {
 	alert("First Parameter: " + firstNumber)

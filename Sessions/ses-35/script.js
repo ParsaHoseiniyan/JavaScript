@@ -1,6 +1,6 @@
 // role of the return keyword in javascript
 // there are two type of this function you see down below 
-// there is just one difference in these two functions that the second function doesn't have the 12th line in the first function
+// there is just one difference in these two functions that the second function doesn't have the 13th line in the first function
 // resource: https://javascript.info/function-basics#returning-a-value 
 
 var number1 = Number(prompt('first number: '))
