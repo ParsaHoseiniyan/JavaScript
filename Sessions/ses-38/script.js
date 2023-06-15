@@ -10,6 +10,8 @@ var finalText = text.concat(" & React")
 // console.log(text.trim()) // ommiting the spaces before and after a text
 // console.log(text.toUpperCase())
 // console.log(text.search("react"))
+    // let text = "Mr. Blue has a blue house";
+    // let position = text.search(/blue/i); => search case insensitive
 // console.log(text.indexOf("Love"))
 // there is a difference between search and indexof => ???
 
