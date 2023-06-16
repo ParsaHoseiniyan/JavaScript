@@ -1,17 +1,7 @@
-// Function Parameters
-// https://javascript.info/function-basics
+// exercise
+allPrice = 0
 
-// alert('من یه آلرت هستم')
-
-function showText (userText) {
-	alert("Your Parameter: " + userText)
+for (var i = 1; i < 6; i++) {
+	var allPrice = allPrice + Number(prompt(`your ${[i]} price: `))
 }
-
-// showText('SabzLearn :)')
-
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
-
-showTwoNumbers(34, 18)
+console.log(allPrice)
