@@ -1,17 +1,17 @@
-// Function Parameters
-// https://javascript.info/function-basics
+var number1 = Number(prompt('first number: '))
+var number2 = Number(prompt('second number: '))
 
-// alert('من یه آلرت هستم')
+if (number1 % 2 == 0) {
+	while (number1 <= number2) {
+		number1 += 2
+		console.log(number1)
+	}
+} else {
+	var evenNumber = number1 + 1
+	while(evenNumber < number2) {
+		console.log(evenNumber)
+		evenNumber += 2
+	}
 
-function showText (userText) {
-	alert("Your Parameter: " + userText)
 }
 
-// showText('SabzLearn :)')
-
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
-
-showTwoNumbers(34, 18)
