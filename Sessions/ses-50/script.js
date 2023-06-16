@@ -1,17 +1,24 @@
-// Function Parameters
-// https://javascript.info/function-basics
+// exercise 2
 
-// alert('من یه آلرت هستم')
+// method 1:
 
-function showText (userText) {
-	alert("Your Parameter: " + userText)
+// var userNumber = null
+
+// for (var i = 0; i < 5; i++) {
+// 	userNumber = userNumber + Number(prompt(`type your ${[i + 1]} number: `))
+// }
+// var avg = userNumber / 5
+// alert('your average: ' + avg)
+
+// method 2:
+var userNumber = null
+var sum = 0
+
+for (var i = 0 ; i < 5 ; i++) {
+	userNumber = Number(prompt('Enter The ' + (i + 1) +  ' Number:'))
+
+	sum = sum + userNumber
 }
 
-// showText('SabzLearn :)')
 
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
-
-showTwoNumbers(34, 18)
+console.log("Average: " + (sum / 5))
