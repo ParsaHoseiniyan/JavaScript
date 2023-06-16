@@ -1,17 +1,4 @@
-// Function Parameters
-// https://javascript.info/function-basics
-
-// alert('من یه آلرت هستم')
-
-function showText (userText) {
-	alert("Your Parameter: " + userText)
+// exercise for-loop for session 46 done in session 47
+for (var i = 0; i <= 100; i += 2) {
+	console.log(i)
 }
-
-// showText('SabzLearn :)')
-
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
-
-showTwoNumbers(34, 18)
