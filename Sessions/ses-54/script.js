@@ -1,17 +1,29 @@
-// Function Parameters
-// https://javascript.info/function-basics
+// exercise for while-loop
 
-// alert('من یه آلرت هستم')
+// first exercise:
 
-function showText (userText) {
-	alert("Your Parameter: " + userText)
-}
+// var userNumber = Number(prompt('enter a number: '))
+// var i = 0
+// var sum = 0
+// while (userNumber / 10 != 0) {
+	
+// 	sum = sum + (userNumber % 10)
+// 	userNumber = Math.floor(userNumber / 10)
+// 	i++;
+// }
+// alert('plus: ' + sum)
 
-// showText('SabzLearn :)')
+/////////////////////////////////////
 
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
+//second exercise:
 
-showTwoNumbers(34, 18)
+// var userNumber = Number(prompt('enter a number: '))
+// var i = 0
+// var counter = 0
+
+// while ((userNumber / 10) != 0 ) {
+// 	userNumber = Math.floor(userNumber / 10)
+// 	counter++;
+// 	i++;
+// }
+// alert(counter)
