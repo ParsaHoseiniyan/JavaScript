@@ -1,17 +1,18 @@
-// Function Parameters
-// https://javascript.info/function-basics
+﻿
+var i = 0
 
-// alert('من یه آلرت هستم')
+do {
+	// Codes
+	console.log(i)
+	i++
+} while (i > 1)
 
-function showText (userText) {
-	alert("Your Parameter: " + userText)
-}
+// var j = 0
 
-// showText('SabzLearn :)')
+// while (j > 1) {
+// 	console.log(j)
+// 	j++
+// }
 
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
 
-showTwoNumbers(34, 18)
+
