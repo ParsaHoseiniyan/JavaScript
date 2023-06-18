@@ -1,17 +1,28 @@
-// Function Parameters
-// https://javascript.info/function-basics
+﻿
+// var scores = [11, 19, 20, 16, 17]
 
-// alert('من یه آلرت هستم')
+// console.log(scores)
 
-function showText (userText) {
-	alert("Your Parameter: " + userText)
-}
+// // scores[5] = 13
+// scores.push(14, 17, 10)
 
-// showText('SabzLearn :)')
+// console.log(scores)
 
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
+// scores.pop()
 
-showTwoNumbers(34, 18)
+// console.log(scores)
+
+////////////////////  shift / unshift  //////////////////////////////////
+
+var scores = [11, 19, 20, 16, 17]
+
+console.log(scores)
+
+scores.shift()
+// scores.shift()
+
+console.log(scores)
+
+scores.unshift(10, 18, 14, 13)
+
+console.log(scores)
