@@ -1,17 +1,19 @@
-// Function Parameters
-// https://javascript.info/function-basics
+// exercise about arrays
+// اعدادی را به تعداد دلخواه از کاربر گرفته و داخل آرایه ای ذخیره کنید
+// و سپس میانگین آن ها را محاسبه کرده و نمایش دهید
+var userNumbers = []
+var userNumber = 0
+var sum = 0 
 
-// alert('من یه آلرت هستم')
-
-function showText (userText) {
-	alert("Your Parameter: " + userText)
+while (userNumber != -1) {
+	userNumber = Number(prompt('type a number: \n enter -1 if you dont want to enter any number.'))
+	if (userNumber != -1) {
+		userNumbers.push(userNumber)
+	}
 }
 
-// showText('SabzLearn :)')
-
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
+for (var i = 0; i < userNumbers.length; i++) {
+	sum = sum + userNumbers[i]
 }
 
-showTwoNumbers(34, 18)
+console.log("Average: ", sum / userNumbers.length)
