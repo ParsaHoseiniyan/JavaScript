@@ -1,17 +1,21 @@
-// Function Parameters
-// https://javascript.info/function-basics
+// how to work with while loop
 
-// alert('من یه آلرت هستم')
+// var i = 0
 
-function showText (userText) {
-	alert("Your Parameter: " + userText)
+// while (i < 100) {
+// 	// Codes 
+// 	console.log(i)
+// 	i += 2
+// }
+
+var userNumber = null
+var i = 0
+var sum = 0
+
+while (i < 3) {
+	userNumber = Number(prompt('Enter The Number: '))
+	sum += userNumber // sum = sum + userNumber
+	i++
 }
 
-// showText('SabzLearn :)')
-
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
-
-showTwoNumbers(34, 18)
+alert('Average: ' + (sum / 3))
