@@ -1,17 +1,9 @@
-// Function Parameters
-// https://javascript.info/function-basics
+// exercise for do while loop
+// (get two numbers from user and firstnumber ** secondnumber (do it with loop))
+var userFirstNumber = Number(prompt('enter your first number: '))
+var userSecondNumber = Number(prompt('enter your second number: '))
+var Number = 1
 
-// alert('من یه آلرت هستم')
-
-function showText (userText) {
-	alert("Your Parameter: " + userText)
+for (var i = 0; i < userSecondNumber; i++) {
+	Number = Number * userFirstNumber
 }
-
-// showText('SabzLearn :)')
-
-function showTwoNumbers (firstNumber, secondNumber) {
-	alert("First Parameter: " + firstNumber)
-	alert("Second Parameter: " + secondNumber)
-}
-
-showTwoNumbers(34, 18)
