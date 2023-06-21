@@ -1,0 +1,7 @@
+https://www.w3schools.com/jsref/event_touchstart.asp
+
+https://www.w3schools.com/jsref/event_touchmove.asp
+
+https://www.w3schools.com/jsref/event_touchend.asp
+
+https://www.w3schools.com/jsref/event_touchcancel.asp

@@ -1,0 +1,3 @@
+https://www.w3schools.com/jsref/event_onunload.asp
+
+https://www.w3schools.com/jsref/event_onbeforeunload.asp
